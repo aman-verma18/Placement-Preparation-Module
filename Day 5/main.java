@@ -1,3 +1,5 @@
+// Print all the duplicates in the input string
+
 import java.util.*;
 public class Main
 {
